@@ -1,0 +1,398 @@
+.top-section {
+    display: flex;
+    height: 400px;
+}
+
+.heading-txt {
+    border: tomato;
+    border-left-style: solid;
+    border-left-width: thick;
+}
+
+.top-section h1 {
+    font-size: 60px;
+    line-height: 80px;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Yeseva One";
+}
+
+.top-section h1 span {
+    font-size: 60px;
+    line-height: 80px;
+    color: #FFAD5A;
+    font-weight: 400;
+    font-family: "Yeseva One";
+}
+
+.top-section p {
+    font-size: 20px;
+    font-family: "Poppins";
+}
+
+.top-section img {
+    margin-top: 40px;
+    height: 400px;
+    width: 300px;
+}
+
+.left-content {
+    width: 50%;
+    margin-right: 220px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.explore-btn {
+    font-size: 20px;
+    color: white;
+    width: 172px;
+    height: 48px;
+    border-radius: 5px;
+    background-color: #ff5959;
+    border: 1px solid white;
+    font-family: "Poppins";
+}
+
+.explore-btn:hover {
+    font-size: 20px;
+    color: #FFAD5A;
+    width: 172px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid #FFAD5A;
+    background-color: transparent;
+    font-weight: 500;
+    transition: all 0.5s ease-out;
+    font-family: "Poppins";
+}
+
+.my-picture {
+    position: absolute;
+    right: 370px;
+}
+
+
+/*mission-section*/
+
+.mission-section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.card {
+    display: flex;
+    margin: 50px 200px;
+}
+
+.mission-section h1 {
+    font-size: 48px;
+    color: #13103a;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Poppins";
+}
+
+.mission-section h1 span {
+    font-size: 48px;
+    color: #FFAD5A;
+    font-weight: 700;
+    text-align: center;
+}
+
+.mission {
+    text-align: left;
+    background-color: #EDF5F6;
+    width: 300px;
+    height: 300px;
+    margin-right: 90px;
+    border-radius: 20px;
+    padding: 40px 40px;
+}
+
+.mission h3 {
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+
+.mission p {
+    margin-top: 20px;
+    font-family: "Poppins";
+}
+
+.vision {
+    text-align: left;
+    background-color: #FFEEEE;
+    width: 300px;
+    height: 300px;
+    margin-right: 90px;
+    border-radius: 20px;
+    padding: 40px 40px;
+}
+
+.vision h3 {
+    font-size: 24px;
+    margin-top: 5px;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+
+.vision p {
+    margin-top: 20px;
+    font-family: "Poppins";
+}
+
+.goals {
+    text-align: left;
+    background-color: #FFF4D5;
+    width: 300px;
+    height: 300px;
+    margin-right: 40px;
+    border-radius: 20px;
+    padding: 40px 40px;
+}
+
+.goals h3 {
+    font-size: 24px;
+    margin-top: 5px;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+
+.goals p {
+    font-family: "Poppins";
+}
+
+
+/*importance-section*/
+
+.importance-section {
+    display: flex;
+    margin: 50px 80px;
+}
+
+.importance-section h1 {
+    font-size: 60px;
+    line-height: 60px;
+    color: #333333;
+    font-weight: 400;
+    margin-top: 10px;
+    font-family: "Poppins";
+}
+
+.importance-section h1 span {
+    font-size: 48px;
+    color: #FFAD5A;
+    font-weight: 700;
+    text-align: center;
+}
+
+.importance-section p {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    margin-top: -20px;
+    font-family: "Poppins";
+}
+
+.backgroun-img {
+    margin-top: 90px;
+}
+
+.importance-img {
+    width: 390px;
+    height: 380px;
+    background-color: #b8c4cc;
+    margin-left: -100px;
+    border-radius: 30px;
+    margin-right: 150px;
+}
+
+.read-btn {
+    font-size: 20px;
+    color: white;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ff5959;
+    border: 1px solid white;
+    font-family: "Poppins";
+}
+
+.read-btn:hover {
+    font-size: 20px;
+    color: #FFAD5A;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #FFAD5A;
+    background-color: transparent;
+    font-weight: 500;
+    transition: all 0.5s ease-out;
+}
+
+
+/*career-section*/
+
+.career-section {
+    display: flex;
+    margin: 120px 220px;
+    height: 400px;
+}
+
+.career-section h1 {
+    font-size: 60px;
+    line-height: 60px;
+    color: #333333;
+    font-weight: 400;
+    margin-top: 40px;
+    font-family: "Poppins";
+}
+
+.career-section h1 span {
+    font-size: 48px;
+    color: #FFAD5A;
+    font-weight: 700;
+    text-align: center;
+}
+
+.career-section p {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    margin-top: -20px;
+    font-family: "Poppins";
+}
+
+.backgroun-img_2 {
+    margin-top: 140px;
+    margin-left: 360px;
+}
+
+.career-img {
+    width: 360px;
+    height: 420px;
+    border-radius: 30px;
+    margin-left: 120px;
+    margin-top: -350px;
+    margin-bottom: 250px;
+}
+
+
+/*my-work-section*/
+
+.my-work-section {
+    height: 900px;
+    margin: 50px 120px;
+}
+
+.my-work-section h1 {
+    font-size: 48px;
+    color: #13103a;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 80px;
+    font-family: "Poppins";
+}
+
+.my-work-section h1 span {
+    font-size: 48px;
+    color: #FFAD5A;
+    font-weight: 700;
+    text-align: center;
+}
+
+.my-work-section h2 {
+    margin-top: 180px;
+    font-size: 48px;
+    color: #13103a;
+    font-weight: 700;
+    text-align: left;
+    font-family: "Poppins";
+}
+
+.my-work-section h2 span {
+    font-size: 48px;
+    color: #FFAD5A;
+    font-weight: 700;
+    text-align: center;
+}
+
+.my-work {
+    display: flex;
+}
+
+.my-work p {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    font-family: "Poppins";
+}
+
+.backgroun-img_3 {
+    margin-top: 280px;
+}
+
+.my-work-img {
+    width: 330px;
+    height: 380px;
+    margin-left: -120px;
+    border-radius: 30px;
+    margin-right: 250px;
+}
+
+.fetures-btn {
+    font-size: 20px;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ff5959;
+    border: 1px solid white;
+}
+
+.fetures-btn:hover {
+    font-size: 20px;
+    color: #FFAD5A;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #FFAD5A;
+    background-color: transparent;
+    font-weight: 500;
+    transition: all 0.5s ease-out;
+}
+
+
+/*footer-section*/
+
+footer {
+    background-color: #0B0D17;
+    height: 200px;
+    text-align: center;
+}
+
+footer h1 {
+    padding-top: 40px;
+    font-size: 36px;
+    line-height: 44px;
+    color: #7798B0;
+    font-weight: 400;
+    font-family: 'Lobster', cursive;
+}
+
+footer h1 span {
+    color: #FF5959;
+}
+
+footer p {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+footer p span {
+    font-weight: bold;
+    color: #FF5959;
+}
